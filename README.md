@@ -9,7 +9,7 @@ The goal of this project is **not** to reproduce a full-scale Transformer model,
 
 **These models are designed to be:**
 
-small and easy enough to understand and modify
+Small and easy enough to understand.
 
 ---
 
