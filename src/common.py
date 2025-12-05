@@ -27,6 +27,7 @@ class PositionalEncoding(nn.Module):
 
 
 # ----- Causal mask (for decoder) -----
+# Attention mask to block attention from future tokens
 def generate_causal_mask(seq_len, device=None):
     """
     Returns [seq_len, seq_len] mask with -inf above diagonal.
