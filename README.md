@@ -7,7 +7,7 @@ This repository provides **simple, minimal implementations of Transformer archit
 
 The goal of this project is **not** to reproduce a full-scale Transformer model, but to offer **small, readable examples** that illustrate how the core components work.
 
-**These models are designed to be:**
+Again, **These models are designed to be:**
 
 Small and easy enough to understand.
 
