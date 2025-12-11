@@ -1,4 +1,4 @@
-# Minimal Transformer Examples in PyTorch
+# Mini Transformer Examples in PyTorch
 
 This repository provides **simple, minimal implementations of Transformer architectures in PyTorch**, inspired by the famous paper:
 
