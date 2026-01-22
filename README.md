@@ -148,17 +148,6 @@ This work was **inspired by the original Transformer architecture** described in
 
 ---
 
-## Contributions
-
-If you’d like to:
-
-* fix bugs
-* improve clarity
-* add small extensions
-
-Pull requests are welcome — **as long as they keep the code simple and educational**.
-
----
 
 ## License
 
